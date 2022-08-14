@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\sql.exe.config
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\sql.exe
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\sql.pdb
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\MySql.Data.dll
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\Google.Protobuf.dll
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\Renci.SshNet.dll
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\bin\Debug\MySql.Data.xml
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\obj\Debug\sql.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\obj\Debug\sql.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\obj\Debug\sql.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\obj\Debug\sql.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\obj\Debug\sql.exe
+c:\users\user\documents\visual studio 2015\Projects\sql\sql\obj\Debug\sql.pdb
